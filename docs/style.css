@@ -109,6 +109,21 @@ body {
   color: #ccc;
 }
 
+.footer-links {
+  margin-bottom: 0.75rem;
+}
+
+.footer-link {
+  font-size: 0.75rem;
+  color: #aaa;
+  text-decoration: none;
+  letter-spacing: 0.1em;
+}
+
+.footer-link:hover {
+  color: #666;
+}
+
 /* ---- Responsive ---- */
 
 @media (min-width: 640px) {
